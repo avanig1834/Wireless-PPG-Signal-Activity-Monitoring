@@ -1,0 +1,2 @@
+ M = 1 (sleep)
+ M = 2 (running or exercise)
